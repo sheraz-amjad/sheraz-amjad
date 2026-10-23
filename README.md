@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syed Sheraz Amjad</h1>
-<h3 align="center">DevOps Engineer | CI/CD • Docker • Jenkins • Monitoring • Cloud</h3>
+<h3 align="center">DevOps Engineer & Cloud Specialist | CI/CD • Docker • Kubernetes • Terraform • AWS • Azure</h3>
 
 <p align="center">
   <a href="https://syedsheraz.me"><img src="https://img.shields.io/badge/Portfolio-syedsheraz.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Microsoft-AZ--400%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400"/>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--400%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400"/>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--104%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104"/>
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
@@ -11,9 +12,11 @@
 
 ## 🚀 About Me
 
-I'm a DevOps Engineer who automates the path from code to production. I build CI/CD pipelines, containerize applications, automate server backups, and set up monitoring so that teams can ship faster and sleep better.
+I'm a DevOps Engineer and Cloud Specialist who automates the path from code to production. I build automated CI/CD pipelines, Docker and Kubernetes container environments, and resilient AWS and Azure infrastructure, with a focus on Infrastructure as Code (Terraform), Linux hardening, and zero-downtime deployments.
 
-I started my career as a Flutter and full-stack developer, so I understand how developers work and what they need from a delivery pipeline. Today I work on real production systems at Zemotify and I am a **Microsoft Certified DevOps Engineer Expert (AZ-400)**.
+I started my career as a Flutter and full-stack developer, so I understand how developers work and what they need from a delivery pipeline. Today I work on real production systems at Zemotify. I am a **Microsoft Certified DevOps Engineer Expert (AZ-400)** and hold the **Azure Administrator Associate (AZ-104)** certification.
+
+🌐 Full portfolio: [syedsheraz.me](https://syedsheraz.me)
 
 **Currently learning:** AWS (IAM, EC2, VPC, S3, Route 53, CloudWatch) and Kubernetes.
 
@@ -26,8 +29,10 @@ I started my career as a Flutter and full-stack developer, so I understand how d
 - Automate scheduled website and server backups to Cloudflare R2 and Google Drive using rclone and cron
 - Manage deployments, DNS, and server maintenance for production websites
 
+**DevOps Internship Program — CMIT**
+- Hands-on DevOps training with monthly progress reports covering pipelines, backups, and automation
 
-**Flutter Mobile App Developer — Semicolons Tech** (Oct 2025 – Feb 2026)
+**Flutter Intern — Semicolons Tech** (Oct 2025 – Feb 2026)
 - Built Flutter apps (Joya, Festival Rumour) using MVVM, REST APIs, and Firebase
 
 **Junior Software Engineer Intern — Ebryx** (Apr 2026 – Jun 2026)
@@ -45,10 +50,11 @@ I started my career as a Flutter and full-stack developer, so I understand how d
 |------|-------|
 | **CI/CD** | GitHub Actions, Jenkins, Azure DevOps |
 | **Containers** | Docker, Docker Compose, GitHub Container Registry (GHCR), Trivy (image scanning) |
-| **Cloud** | Microsoft Azure (AZ-400), AWS (learning), Cloudflare R2, Cloudflare DNS |
+| **Cloud** | Microsoft Azure (AZ-400, AZ-104), AWS, Cloudflare R2, Cloudflare DNS |
+| **Infrastructure as Code** | Terraform |
 | **Monitoring** | Grafana, Prometheus, Node Exporter, Loki |
-| **Orchestration** | Kubernetes (learning) |
-| **OS & Scripting** | Linux, Bash, cPanel/WHM, Cron, rclone |
+| **Orchestration** | Kubernetes |
+| **OS & Security** | Linux (hardening), Bash, cPanel/WHM, Cron, rclone |
 | **Web Servers** | Nginx |
 | **Version Control** | Git, GitHub |
 | **Programming** | Python (basics), JavaScript, Dart |
@@ -62,6 +68,7 @@ I started my career as a Flutter and full-stack developer, so I understand how d
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
