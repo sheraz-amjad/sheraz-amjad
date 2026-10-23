@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://syedsheraz.me"><img src="https://img.shields.io/badge/Portfolio-syedsheraz.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Microsoft-AZ--400%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400"/>
-  <img src="https://img.shields.io/badge/Microsoft-AZ--104%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104"/>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SyedSherazAmjad-7601/8410A366B8A7F000?sharingId=C28BC861D08F9F5F"><img src="https://img.shields.io/badge/Microsoft-AZ--400%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SyedSherazAmjad-7601/678FF686B7872ECA?sharingId=C28BC861D08F9F5F"><img src="https://img.shields.io/badge/Microsoft-AZ--104%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104"/></a>
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
@@ -109,7 +109,7 @@ I started my career as a Flutter and full-stack developer, so I understand how d
 <p>
   <a href="https://syedsheraz.me"><img src="https://img.shields.io/badge/Website-syedsheraz.me-0A66C2?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/syed-sheraz-amjad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sherazamjad933@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 📍 Lahore, Punjab, Pakistan
