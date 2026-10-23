@@ -1,85 +1,123 @@
 <h1 align="center">Hi 👋, I'm Syed Sheraz Amjad</h1>
-<h3 align="center">Flutter Developer | Building Cross-Platform Apps for iOS, Android & Web</h3>
+<h3 align="center">DevOps Engineer | CI/CD • Docker • Jenkins • Monitoring • Cloud</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://syedsheraz.me"><img src="https://img.shields.io/badge/Portfolio-syedsheraz.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--400%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400"/>
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a Flutter developer passionate about building cross-platform mobile applications across iOS, Android, and Web. I've grown from hands-on learning into real production experience, working across multiple companies on live apps spanning event/social platforms, hotel booking, and travel domains — with additional exposure to full-stack (MERN) development and DevOps fundamentals.
+I'm a DevOps Engineer who automates the path from code to production. I build CI/CD pipelines, containerize applications, automate server backups, and set up monitoring so that teams can ship faster and sleep better.
 
-I care about clean architecture, reusable components, and building apps that feel intuitive to use. Currently looking to grow further as a Mobile App Developer at **Cridio Studio**.
+I started my career as a Flutter and full-stack developer, so I understand how developers work and what they need from a delivery pipeline. Today I work on real production systems at Zemotify and I am a **Microsoft Certified DevOps Engineer Expert (AZ-400)**.
 
----
-
-### 💼 Experience
-
-**Mobile App Developer** — Cridio Studio *(Jul 2026 – Present)*
-- Building and maintaining cross-platform mobile applications using Flutter
-
-**Mobile App Developer** — Semicolons *(Oct 2025 – Feb 2026)*
-- Built **Joya** (hotel booking app) and **Festival Rumour** (event/social app) using Flutter
-- Implemented MVVM architecture, reusable widgets, and authentication flows
-- Integrated REST APIs and Firebase for backend functionality
-
-**Junior Software Engineer Intern** — Ebryx *(Apr 2026 – Jun 2026)*
-- Built a Netflix-clone streaming platform using the MERN stack (MongoDB, Express.js, React, Node.js)
-- Learned and implemented CI/CD workflows and containerization
-- Deployed applications using Vercel
-
-**.NET Development Intern** — UBL *(Summer 2024)*
-- Completed initial training in .NET development fundamentals
+**Currently learning:** AWS (IAM, EC2, VPC, S3, Route 53, CloudWatch) and Kubernetes.
 
 ---
 
-### 🛠️ Skills & Technologies
+## 💼 Experience
 
-**Languages:** Dart, JavaScript, C# (basics)
+**DevOps Engineer — Zemotify** (Jul 2026 – Present, Lahore)
+- Build and maintain GitHub Actions Dev/Prod CI/CD pipelines for React + Django and Next.js applications
+- Automate scheduled website and server backups to Cloudflare R2 and Google Drive using rclone and cron
+- Manage deployments, DNS, and server maintenance for production websites
 
-**Mobile Development:** Flutter, Provider (State Management), Clean Architecture, MVVM, Responsive UI, Widget Development
+**DevOps Internship Program — CMIT**
+- Hands-on DevOps training with monthly progress reports covering pipelines, backups, and automation
 
-**Backend & APIs:** REST APIs, Node.js, Express.js, MongoDB
+**Flutter Intern — Semicolons Tech** (Oct 2025 – Feb 2026)
+- Built Flutter apps (Joya, Festival Rumour) using MVVM, REST APIs, and Firebase
 
-**Cloud & Tools:** Firebase (Auth, Firestore, Storage), Git & GitHub, CI/CD, Docker (basics), Vercel
+**Junior Software Engineer Intern — Ebryx** (Apr 2026 – Jun 2026)
+- Built a Netflix-clone streaming platform with the MERN stack
+- Learned and applied CI/CD workflows and containerization, and deployed with Vercel
 
-**Other:** WordPress, SEO Fundamentals
+**.NET Development Intern — UBL** (Summer 2024)
+- Completed foundational training in .NET development
 
 ---
 
-### 📱 Featured Projects
+## 🛠️ Skills & Technologies
+
+| Area | Tools |
+|------|-------|
+| **CI/CD** | GitHub Actions, Jenkins, Azure DevOps |
+| **Containers** | Docker, Docker Compose, GitHub Container Registry (GHCR), Trivy (image scanning) |
+| **Cloud** | Microsoft Azure (AZ-400), AWS (learning), Cloudflare R2, Cloudflare DNS |
+| **Monitoring** | Grafana, Prometheus, Node Exporter, Loki |
+| **Orchestration** | Kubernetes (learning) |
+| **OS & Scripting** | Linux, Bash, cPanel/WHM, Cron, rclone |
+| **Web Servers** | Nginx |
+| **Version Control** | Git, GitHub |
+| **Programming** | Python (basics), JavaScript, Dart |
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</p>
+
+---
+
+## 📦 Featured DevOps Projects
 
 | Project | Description | Tech Stack |
-|---|---|---|
-| **Joya** | Cross-platform hotel booking app | Flutter, Provider, REST APIs, Firebase |
-| **Festival Rumour** | Social/event discovery app with MVVM architecture | Flutter, MVVM, Reusable Widgets, Auth |
-| **Go Travel App** | Personal project — travel discovery & booking app | Flutter, Provider, Firebase, REST APIs |
-| **Netflix Clone** | Full-stack streaming platform clone | MongoDB, Express.js, React, Node.js, Docker, Vercel |
+|---------|-------------|------------|
+| [**docker-lab-flask**](https://github.com/sheraz-amjad/docker-lab-flask) | Containerized Flask app with a full pipeline: build, image scan, push to GHCR, and automatic SSH deploy | Docker, GitHub Actions, GHCR, Trivy, SSH |
+| **Jenkins Pipeline** | Declarative Jenkinsfile pipeline for the Flask app (build, test, Docker image, deploy) | Jenkins, Docker, Git |
+| **Monitoring Stack** | Server monitoring with metrics dashboards and centralized logs | Grafana, Prometheus, Node Exporter, Loki |
+| **Automated Server Backups** | Weekly zip and upload of site files to Cloudflare R2 with retention of the latest two copies | Bash, rclone, Cron, Cloudflare R2 |
+| **Dev/Prod CI/CD Templates** | Separate Dev and Prod GitHub Actions workflows for React + Django and Next.js apps | GitHub Actions, Linux, SSH |
 
-*(Add live links or repo links to each project above once available)*
+<!-- TODO: add repository links for the Jenkins, Monitoring, Backup, and CI/CD template projects once they are published. -->
 
 ---
 
-### 📫 Connect With Me
+## 📱 Earlier Work (Application Development)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/syed-sheraz-amjad/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sherazamjad933@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| Joya | Cross-platform hotel booking app | Flutter, Provider, REST APIs, Firebase |
+| Festival Rumour | Social/event discovery app | Flutter, MVVM, Firebase Auth |
+| Netflix Clone | Full-stack streaming platform | MongoDB, Express.js, React, Node.js, Vercel |
+
+---
+
+## 🎯 Currently Working On
+
+- 🔭 Kubernetes fundamentals (pods, deployments, services)
+- ☁️ AWS core services (IAM, EC2, VPC, S3, Route 53, CloudWatch)
+- 📊 Production-ready monitoring and alerting with Grafana
+- 🔁 Reusable CI/CD pipeline templates
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://syedsheraz.me"><img src="https://img.shields.io/badge/Website-syedsheraz.me-0A66C2?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">📍 Lahore, Punjab, Pakistan</p>
+📍 Lahore, Punjab, Pakistan
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sheraz-amjad&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz-amjad&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
