@@ -26,10 +26,8 @@ I started my career as a Flutter and full-stack developer, so I understand how d
 - Automate scheduled website and server backups to Cloudflare R2 and Google Drive using rclone and cron
 - Manage deployments, DNS, and server maintenance for production websites
 
-**DevOps Internship Program — CMIT**
-- Hands-on DevOps training with monthly progress reports covering pipelines, backups, and automation
 
-**Flutter Intern — Semicolons Tech** (Oct 2025 – Feb 2026)
+**Flutter Mobile App Developer — Semicolons Tech** (Oct 2025 – Feb 2026)
 - Built Flutter apps (Joya, Festival Rumour) using MVVM, REST APIs, and Firebase
 
 **Junior Software Engineer Intern — Ebryx** (Apr 2026 – Jun 2026)
