@@ -27,7 +27,7 @@ I started my career as a Flutter and full-stack developer, so I understand how d
 - Automate scheduled website and server backups to Cloudflare R2 and Google Drive using rclone and cron
 - Manage deployments, DNS, and server maintenance for production websites
 
-**Junior DevOps Engineer Intern — Ebryx** (Apr 2026 – Jun 2026)
+**DevOps Engineer Intern — Ebryx** (Apr 2026 – Jun 2026)
 - Designed and built a full-stack Netflix-clone streaming platform using the MERN stack (MongoDB, Express.js, React, Node.js)
 - Containerized the application with Docker to keep builds consistent across environment
 - Applied CI/CD workflows to automate build and deployment, and deployed the application to Verce
@@ -75,7 +75,7 @@ I started my career as a Flutter and full-stack developer, so I understand how d
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**docker-lab-flask**](https://github.com/sheraz-amjad/docker-lab-flask) | Containerized Flask app with a full pipeline: build, image scan, push to GHCR, and automatic SSH deploy | Docker, GitHub Actions, GHCR, Trivy, SSH |
+| [**zemowork**](https://github.com/sheraz-amjad/zemoworks) | Containerized Flask app with a full pipeline: build, image scan, push to GHCR, and automatic SSH deploy | Docker, GitHub Actions, GHCR, Trivy, SSH |
 | **Jenkins Pipeline** | Declarative Jenkinsfile pipeline for the Flask app (build, test, Docker image, deploy) | Jenkins, Docker, Git |
 | **Monitoring Stack** | Server monitoring with metrics dashboards and centralized logs | Grafana, Prometheus, Node Exporter, Loki |
 | **Automated Server Backups** | Weekly zip and upload of site files to Cloudflare R2 with retention of the latest two copies | Bash, rclone, Cron, Cloudflare R2 |
@@ -108,17 +108,9 @@ I started my career as a Flutter and full-stack developer, so I understand how d
 
 <p>
   <a href="https://syedsheraz.me"><img src="https://img.shields.io/badge/Website-syedsheraz.me-0A66C2?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/syed-sheraz-amjad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 📍 Lahore, Punjab, Pakistan
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sheraz-amjad&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz-amjad&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
