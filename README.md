@@ -27,12 +27,13 @@ I started my career as a Flutter and full-stack developer, so I understand how d
 - Automate scheduled website and server backups to Cloudflare R2 and Google Drive using rclone and cron
 - Manage deployments, DNS, and server maintenance for production websites
 
+**Junior DevOps Engineer Intern — Ebryx** (Apr 2026 – Jun 2026)
+- Designed and built a full-stack Netflix-clone streaming platform using the MERN stack (MongoDB, Express.js, React, Node.js)
+- Containerized the application with Docker to keep builds consistent across environment
+- Applied CI/CD workflows to automate build and deployment, and deployed the application to Verce
+
 **Flutter Developer — Semicolons Tech** (Oct 2025 – Feb 2026)
 - Built Flutter apps (Joya, Festival Rumour) using MVVM, REST APIs, and Firebase
-
-**Junior Software Engineer Intern — Ebryx** (Apr 2026 – Jun 2026)
-- Built a Netflix-clone streaming platform with the MERN stack
-- Learned and applied CI/CD workflows and containerization, and deployed with Vercel
 
 **.NET Development Intern — UBL** (Summer 2024)
 - Completed foundational training in .NET development
